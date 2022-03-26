@@ -8,7 +8,7 @@ Sample entropy, a general method for DDoS detection in SDN, is conducted by coll
 entropy measure randomness in the packets that are coming to a network. The higher the randomness, the higher is the entropy and vice versa. By setting a threshold, 
 if the entropy passes it or below it, depending on the scheme, an attack is detected.
 
-## Built With
+## Tools Used
 - Linux 
 - Python
 - Mininet
@@ -24,4 +24,3 @@ task in our project. It can be implemented with an efficient algorithm using Ope
 Ankit 
 - [@LinkedIn](https://www.linkedin.com/in/ankitsangwan158/) 
 - ankitsangwan158@gmail.com
- 
